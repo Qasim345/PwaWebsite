@@ -9,10 +9,5 @@
     "src": "dist/logo.png",
     "size": "500/500",
     "type": "image/png"
-  },
-    {
-      "src": "dist/king.png",
-      "size": "500/500",
-      "type": "image/png"
-    }]
+  }]
 }
