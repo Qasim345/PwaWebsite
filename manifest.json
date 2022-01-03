@@ -1,7 +1,7 @@
 {
   "name": "Qasim Sarwari",
   "short_name": "Qasim",
-  "start_url": "/",
+  "start_url": ".",
   "background_color": "#eef3f9",
   "theme_color": "#6d7a84",
   "display": "standalone",
