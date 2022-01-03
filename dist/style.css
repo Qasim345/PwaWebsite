@@ -89,9 +89,9 @@ h1,h2,h3,h4,h5,a {
   color: var(--co);
 }
 .container {
-  width: 360px;
-  margin: 0 auto;
-  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  padding: 20px 30px;
 }
 .container h1 {
   color: #333;
@@ -330,10 +330,6 @@ h1,h2,h3,h4,h5,a {
 }
 /* // skills-page */
 @media (max-width: 480px){
-  .container{
-    width: 100%;
-    height: 100vh;
-  }
   a{
     cursor: default;
   }
