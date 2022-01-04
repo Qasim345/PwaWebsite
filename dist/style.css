@@ -250,6 +250,7 @@ h1,h2,h3,h4,h5,a {
   height: 100%;
   background: var(--col);
 }
+/*
 .skills-bar .bar div:before{
   position: absolute;
   top: -32px;
@@ -270,7 +271,7 @@ h1,h2,h3,h4,h5,a {
   border-left: 6px solid transparent;
   border-right: 6px solid transparent;
   
-}
+}*/
 .skills-bar .bar .js{
   width: 55%;
 }
@@ -298,6 +299,7 @@ h1,h2,h3,h4,h5,a {
 .skills-bar .bar .vuejs{
   width: 40%;
 }
+/*
 .skills-bar .bar .js:before{
   content: '55%';
 }
@@ -327,7 +329,7 @@ h1,h2,h3,h4,h5,a {
 }
 .skills-bar .bar .vuejs:before{
   content: '40%';
-}
+}*/
 /* // skills-page */
 @media (max-width: 480px){
   a{
