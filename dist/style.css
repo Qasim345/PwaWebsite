@@ -57,6 +57,7 @@ h1,h2,h3,h4,h5,a {
   text-align: center;
   border-top: 3px solid transparent;
   transition: 0.2s;
+  cursor: pointer;
 }
 #bottom-nav .item.active {
   border-color: #333;
@@ -330,6 +331,9 @@ h1,h2,h3,h4,h5,a {
 /* // skills-page */
 @media (max-width: 480px){
   a{
+    cursor: default;
+  }
+  #bottom-nav .item{
     cursor: default;
   }
 }
